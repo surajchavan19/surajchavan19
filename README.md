@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajchavan19&label=Profile%20views&color=0e75b6&style=flat" alt="surajchavan19" /> </p>
 
+- 🔭 I'm a Computer Science student
+
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on new projects of different domains
@@ -13,7 +15,7 @@
 - 📫 How to reach me **surajchavan19@gmail.com**
 
 - ⚡ Fun fact **The Firefox logo isn’t a fox… it’s a red panda!**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraj-arun-chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-arun-chavan" height="30" width="40" /></a>
