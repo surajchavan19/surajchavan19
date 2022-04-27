@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Node.js, EJS, and express.js**
 
-- 📫 How to reach me **surajchavan19@gmail.com**
+- 📫 How to reach me: **surajchavan19@gmail.com**
 
-- ⚡ Fun fact **The Firefox logo isn’t a fox… it’s a red panda!**
+- ⚡ Fun fact: **The Firefox logo isn’t a fox… it’s a red panda!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
