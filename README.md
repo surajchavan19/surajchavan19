@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on new projects of different domains
+- 👯 I’m looking to collaborate with new people
 
 - 💬 Ask me about **Node.js, EJS, and express.js**
 
