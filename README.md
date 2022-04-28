@@ -27,11 +27,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajchavan19&show_icons=true&locale=en&layout=compact" alt="surajchavan19" /></p>
 
-<p><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=surajchavan19&show_icons=true&locale=en" alt="surajchavan19" /></p>
+<p><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=surajchavan19&show_icons=true&locale=en&hide=prs,issues" alt="surajchavan19" /></p>
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajchavan19&" alt="surajchavan19" /></p> -->
 
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajchavan19&theme=dracula)](https://github.com/surajchavan19/github-readme-activity-graph)
+<!-- [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajchavan19&theme=dracula)](https://github.com/surajchavan19/github-readme-activity-graph) -->
 
 
 
