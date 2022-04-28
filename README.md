@@ -31,7 +31,7 @@
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajchavan19&" alt="surajchavan19" /></p> -->
 
-<!-- [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajchavan19&theme=dracula)](https://github.com/surajchavan19/github-readme-activity-graph) -->
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surajchavan19&theme=dracula)](https://github.com/surajchavan19/github-readme-activity-graph)
 
 
 
