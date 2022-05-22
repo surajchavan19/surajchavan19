@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Chavan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-
-<img align="right"  alt="Coding" width="300" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
-
+<p align="right">
+<img   alt="Coding" width="300" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajchavan19&label=Profile%20views&color=0e75b6&style=flat" alt="surajchavan19" /> </p>
 
 - 🔭 I'm a Computer Science student
