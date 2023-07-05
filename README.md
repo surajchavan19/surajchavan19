@@ -7,11 +7,11 @@
 
 - 🔭 I'm a Computer Science student
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate with new people
 
-- 💬 Ask me about **Node.js, EJS, and express.js**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me: **surajchavan19@gmail.com**
 
