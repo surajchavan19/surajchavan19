@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajchavan19&label=Profile%20views&color=0e75b6&style=flat" alt="surajchavan19" /> </p>
 
-- 🔭 I'm a Computer Science student
+- 🔭 I'm a Software Engineer at Oracle
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently building Goodland Pickleball
 
 - 👯 I’m looking to collaborate with new people
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Agentic and Generative AI, Web Development**
 
 - 📫 How to reach me: **surajchavan19@gmail.com**
 
