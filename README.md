@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Chavan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from New York</h3>
 
 <img  align="right" alt="Coding" width="300" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
